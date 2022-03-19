@@ -1,0 +1,52 @@
+h1 {
+    background-color: red;
+    color: white;
+    font-size: 35px;
+    border-style: solid;
+    border-width: 20px;
+    border-color: red;
+    font-family: Arial;
+    font-weight: bold;
+    }
+
+#login {
+        float: right;
+        font-size: 20px;
+        text-decoration-line: underline;
+        font-weight: normal;
+        }
+
+h2 {
+    background-color: #49494b;
+    color: white;
+    border-style: solid;
+    border-width: 20px;
+    border-color: #49494b;
+    padding-left: 2000px;
+    font-family: Arial;
+    }
+
+.span-container {
+                display: flex;
+                gap: 2rem;
+                float: right;
+                }
+
+#building {
+          font-size: 20px;
+          text-decoration-line: underline;
+          }
+
+#art {
+      font-size: 20px;
+      text-decoration-line: underline;
+      }
+
+#featured {
+          font-size: 20px;
+          text-decoration-line: underline;
+          }
+
+#dam {
+      
+  }
